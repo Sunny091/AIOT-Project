@@ -10,14 +10,14 @@
 #include <addons/TokenHelper.h>  // 用于生成token
 
 // WiFi設定
-const char* ssid = "沈之晅的iPhone";
-const char* password = "0968202393";
+const char* ssid = "wifi-name";
+const char* password = "wifi-password";
 
 // Firebase项目配置
-#define API_KEY "AIzaSyAiWo7VphXKrQ0ZpVl6r9KsE3jGuhQq2lE"
+#define API_KEY "firebase api key"
 #define FIREBASE_PROJECT_ID "aiot-proj"
-#define USER_EMAIL "s890919@gmail.com"
-#define USER_PASSWORD "asdf1234"
+#define USER_EMAIL "user-email"
+#define USER_PASSWORD "user-password"
 
 // Firebase实例和配置对象
 FirebaseData fbdo;
@@ -54,7 +54,7 @@ const char* dinner_hour;
 const char* dinner_minute;
 
 // line notify
-const char* lineToken = "nw0z8ikIMC3iTbyRBN5J502Wc8sv05eApoK2LGwn8VA";
+const char* lineToken = "line api";
 
 void setup() {
     Serial.begin(115200);
