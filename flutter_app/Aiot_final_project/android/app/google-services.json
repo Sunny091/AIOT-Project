@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49562030048",
+    "project_id": "aiot-proj",
+    "storage_bucket": "aiot-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49562030048:android:d2d72d3df5b3bf396da585",
+        "android_client_info": {
+          "package_name": "com.example.aiot_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQX_X5zFPwS8dzLMeRqLx7-q7DvmMfg7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
