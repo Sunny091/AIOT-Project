@@ -167,7 +167,7 @@ MIT
 
 ## 🙌 Authors
 
--   ESP32 + Firebase Developer: _Your Name_
--   Flutter UI Developer: _Your Name_
+-   ESP32 + Firebase Developer: _Chih-Hsuan, Shen & Yun-Chieh, Chang_
+-   Flutter UI Developer: _Min-Yu, Liang & Yi-Li, Kuo_
 
 > "A smarter way to take your meds, one beep at a time."
